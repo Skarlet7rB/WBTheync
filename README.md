@@ -1,4 +1,4 @@
-# WBTheync
+# WSTheync
 
 Python 3
 
