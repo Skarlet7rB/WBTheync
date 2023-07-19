@@ -12,11 +12,19 @@ pip install -r requirements.txt
 
 [1] Public
 
+![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-52c719354bec2df94d20/1.gif)
+
 [2] Underground  ByPass
+
+![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-52c719354bec2df94d20/2.gif)
 
 [3] Search Single  ByPass
 
+![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-52c719354bec2df94d20/3.gif)
+
 [4] Search Tag  ByPass
+
+![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-52c719354bec2df94d20/4.gif)
 
 [+] Brute Force
 
