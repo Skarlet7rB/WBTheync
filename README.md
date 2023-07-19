@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 [3] Search Single  ByPass
 
-![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-e6f68d4132ab882e18ff/3.gif))
+![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-e6f68d4132ab882e18ff/3.gif)
 
 [4] Search Tag  ByPass
 
