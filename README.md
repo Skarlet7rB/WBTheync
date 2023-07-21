@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-fc3906f01959550618e0/4.gif)
 
-[+] Brute Force
+## [+] Brute Force
 
 ### [5] Get of Users List
 
