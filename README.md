@@ -39,3 +39,5 @@ pip install -r requirements.txt
 [7] Checker Combo List
 
 ![](https://github.com/Skarlet7rB/WSTheync/releases/download/untagged-567235e9dcd5fdf04ef9/7.gif)
+
+## t.me/Skarlet7rB
