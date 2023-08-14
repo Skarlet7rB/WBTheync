@@ -4,7 +4,7 @@ Python 3
 
 pip install -r requirements.txt
 
-## [+] Web Scraping And Brute Force Theync.com [+]
+## [+] Web Scraping And Brute Force Theync.com
 
 ![](0.gif)
 
